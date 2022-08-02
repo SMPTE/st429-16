@@ -10,4 +10,4 @@ Please report issues at <https://github.com/SMPTE/st429-16/issues> or at the 21D
 
 ## Project details
 
-Maintenance revision project pending.
+Maintenance revision project approved, work pending.
